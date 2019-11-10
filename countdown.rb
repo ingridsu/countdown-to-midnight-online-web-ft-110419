@@ -1,4 +1,5 @@
 number = 0
-def countdown(number)
+def countdown(10)
   puts "#{number} SECOND(S)!"
+  number -= 10
 end
